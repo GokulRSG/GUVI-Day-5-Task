@@ -1,0 +1,66 @@
+{
+    "basic info": {
+      "name": "Gokulnath",
+      "Destination": "Full Stack Developer",
+      "email": "gokulraj1806@gmail.com",
+      "phone": "8344224986.",
+      "degree": "M.Sc(CS)",
+      "summary": "I have 4+ years of experience in IT industry, over 2.6 years of experience as an Automation Functional Tester, proficient in designing, developing, and executing automated test scripts to ensure the quality and functionality of software applications. Ability to learn new automation technologies, tools and languages and quickly.",
+      "location": {
+        "address": "west Raja street, Minnampalli",
+        "postalCode": "636106",
+        "city": "Salem"
+      }
+    },
+    "work": [
+      {
+        "company": "Vee Healthtek Private Limited",
+        "position": "Technical Support Analyst",
+        "startDate": "06-08-2021 ",
+        "endDate": "14-07-2023",
+        "summary": "Responding to technical support tickets and resolve short time through Remote."
+      },
+      {
+        "company": "Uniso System India Private Limited",
+        "position": "Automation Tester",
+        "startDate": "Nov-2018",
+        "endDate": "May-2021",
+        "summary": "Create a comprehensive test plan that outlines the testing scope, objectives, testing approach, test environment, and the resources required for testing."
+      }
+    ],
+    "Projects":[{
+        "Name":"Bharat soapstone cookware and Drawing cart",
+        "Duration":"From Nov 2018 – May 2021",
+        "Role":"Automation Tester",
+        "environment":"JAVA, CUCUMBER, TESTNG, MAVEN, SpecFlow"
+    },{
+        "Name":"Vee Application",
+        "Duration":"From Aug 2021 – Jul 2023",
+        "Role":"Technical support Analyst",
+        "environment":"VTS"
+    }
+],
+    "education": [
+      {
+        "institution": "Sri Ganesh College of Arts and Science",
+        "courses": "M.Sc(CS)",
+        "studyType": "Full Time",
+        "startDate": "2014",
+        "endDate": "2016",
+        "gpa": "7.1"
+      }
+    ],
+    "skills": [
+      "CPP", "C#", "HTML", "CSS", "JAVA", "SQL"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "intermediate"
+      },
+      {
+        "language": "Tamil",
+        "fluency": "High"
+      }
+    ]
+  }
